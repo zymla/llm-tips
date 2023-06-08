@@ -1,1 +1,1 @@
-# llm-tips
+# LLM tips
